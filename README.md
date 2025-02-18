@@ -29,17 +29,12 @@ https://github.com/your-username/movie-recommender.git
 cd movie-recommender
 ```
 
-### 2️⃣ Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run the script:
+### 2️⃣ Run the script:
 ```bash
 python recommend.py
 ```
 
-### 4️⃣ Get Movie Recommendations:
+### 3️⃣ Get Movie Recommendations:
 In the script, call the `recommend()` function with a movie title:
 ```python
 recommend('Inception')
